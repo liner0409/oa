@@ -9,3 +9,4 @@ test delete
 dev update 02
 p2 hello
 fix bug
+fix bug2
